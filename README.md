@@ -52,8 +52,11 @@ Diabetes is one of the most common chronic diseases affecting millions worldwide
 
 Here is a preview of the GUI: (output)
 
-[GUI Screenshot Of Deabetic](images./Prediction_Diabetic.png)
-[GUI Screenshot of Not Deabetic](images./Prediction_Not_Diabetic.png)
+- Predict Not Diabetic
+  ![GUI Screenshot of Not Deabetic](images/Prediction_Not_Diabetic.png)
+
+- Predict Diabetic
+  ![GUI Screenshot Of Deabetic](images/Prediction_Diabetic.png)
 
 ---
 
